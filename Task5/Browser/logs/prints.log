@@ -1,0 +1,7 @@
+17:10:22.519 [TestNG-tests-3] INFO  resources.base - Navigated to Home page
+17:10:22.643 [TestNG-tests-3] INFO  resources.base - Successfully validated text message
+17:10:24.030 [TestNG-tests-2] INFO  resources.base - RestrictedUser
+17:10:32.444 [TestNG-tests-5] INFO  resources.base - Navigated to Indiatimes
+17:10:34.471 [TestNG-tests-5] INFO  resources.base - IND Successfully validated text message
+17:11:05.969 [TestNG-tests-4] INFO  resources.base - Navigated to qatechhub
+17:11:05.986 [TestNG-tests-4] INFO  resources.base - QASuccessfully validated text message

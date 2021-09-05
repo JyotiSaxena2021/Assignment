@@ -1,0 +1,6 @@
+17:08:56.143 [TestNG-tests-3] INFO  resources.base - Successfully validated text message
+17:08:59.314 [TestNG-tests-5] INFO  resources.base - Navigated to Indiatimes
+17:09:00.252 [TestNG-tests-5] INFO  resources.base - IND Successfully validated text message
+17:09:01.956 [TestNG-tests-4] INFO  resources.base - Navigated to qatechhub
+17:09:01.969 [TestNG-tests-4] INFO  resources.base - QASuccessfully validated text message
+17:10:12.283 [TestNG-tests-3] INFO  resources.base - Driver is initialized

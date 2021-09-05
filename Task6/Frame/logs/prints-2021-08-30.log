@@ -1,0 +1,8 @@
+16:47:49.402 [main] INFO  resources.base - Processing to Home page
+16:47:52.692 [main] INFO  resources.base - Welcome to Home page
+16:47:54.056 [main] INFO  resources.base - RestrictedUser
+16:53:38.315 [main] INFO  resources.base - Processing to Home page
+16:53:41.056 [main] INFO  resources.base - Welcome to Home page
+23:16:44.015 [main] INFO  resources.base - Driver is initialized
+23:16:47.077 [main] INFO  resources.base - Navigated to Home page
+23:16:50.516 [main] INFO  resources.base - Navigation bar is displayed
