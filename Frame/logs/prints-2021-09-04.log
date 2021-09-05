@@ -1,0 +1,7 @@
+23:45:09.377 [TestNG-tests-4] INFO  resources.base - Navigated to Home page
+23:45:10.726 [TestNG-tests-3] INFO  resources.base - RestrictedUser
+00:03:42.995 [TestNG-tests-4] INFO  resources.base - Driver is initialized
+00:03:46.129 [TestNG-tests-4] INFO  resources.base - Navigated to Home page
+00:03:47.894 [TestNG-tests-3] INFO  resources.base - RestrictedUser
+14:17:52.421 [TestNG-tests-4] INFO  resources.base - Driver is initialized
+14:17:55.629 [TestNG-tests-4] INFO  resources.base - Navigated to Home page
